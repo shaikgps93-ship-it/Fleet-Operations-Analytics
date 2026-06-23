@@ -87,7 +87,6 @@ To analyze driver performance, trip activity, productivity, and vehicle utilizat
 
 ### Root Cause Analysis
 ![Root Cause Analysis](Screenshots/Root_Cause_Analysis.png)
-
 ---
 
 ## 📁 Repository Structure
