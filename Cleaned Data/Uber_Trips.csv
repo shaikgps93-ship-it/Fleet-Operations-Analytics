@@ -1,0 +1,125 @@
+<<<<<<< HEAD
+﻿Driver UUID,Driver first name,Driver last name,Total_Earnings,Total Earnings : Net Fare,Total Earnings : Promotions,Refunds & Expenses,Payouts,Payouts : Transferred To Bank Account,Payouts : Cash Collected,Paid to Uber,Total Earnings:Tip,Total Earnings:Other earnings:Lost Item Return,Paid to Uber:Fare Split Fee
+7dda8d0a-49b7-47a4-9d35-89525c71ab45,Ramesh,Rana,14.08,14.08,null,,null,null,null,null,null,null,null
+535200a8-0f18-4c52-8d51-43a68a0e4bc5,LUDMILA,MORARU,788.12,640.6,120,,-121.03,null,-121.03,null,27.52,null,null
+bb705729-0394-459b-b803-af422ddba325,Md Shamsuddin,Jubaraz,1891.65,1650.41,219,,-167.2,null,-167.2,null,12.92,9.32,null
+64d2eb19-7018-4355-ba7f-b02409421fd5,Sunil Kumar,Tyagi,569.38,555.07,null,,-12.53,null,-12.53,null,14.31,null,null
+581c3f9c-42a3-4d54-ba63-9162ed26b88a,Krishna,Panday,833.37,808.87,20,,-122.8,null,-122.8,null,4.5,null,null
+f11d894c-1e06-4df1-bbb5-d479b6876b0b,Nandlal,Sharma Padhya,447.06,424.56,15,,-82.32,null,-82.32,null,7.5,null,null
+6741dbbe-a42c-433f-8d2f-5479114bffbc,Muntahar,Muntahar,110.23,110.23,null,,-10.95,null,-10.95,null,null,null,null
+5f7e5b74-9e81-4b6b-acb6-e258eff1e348,Muhammad Toseef,Saeed,11.57,11.57,null,,null,null,null,null,null,null,null
+a94bc085-4573-44a0-a665-5c7b13bd4802,Sagar,Gurung,118.03,116.03,null,,-17.63,null,-17.63,null,2,null,null
+e905f76e-11b7-4f59-8b9b-490625df67c2,ALI RAZA,RANA,null,null,null,,null,null,null,null,null,null,null
+65c1cc6e-538c-419f-af26-34ffb185318c,Mantvydas,Narusevicius,null,null,null,,-28749.61,-28749.61,null,null,null,null,null
+68af49c1-18fb-47c2-a2bd-e2e5e178ae58,Sijo,Kuriakose,886.72,741.86,132,,-151.95,null,-151.95,-0.06,12.86,null,-0.06
+12db5a09-00b7-4880-90a8-65fac99647e9,Muhammad,Zeeshan,87.67,87.67,null,,-10.58,null,-10.58,null,null,null,null
+8795e3d5-6db0-426e-a33f-bce5089e9ff5,Shimroz,Bashir,414.29,398.29,16,,-151.39,null,-151.39,null,null,null,null
+4874d7c6-1593-4b89-b4cb-301df794c83f,Ankit,Thapa,213.56,194.06,14,,-39.47,null,-39.47,null,5.5,null,null
+3fd50dfb-2555-422f-b6f6-eade52cf3de3,Mohammed,Nazim,37.94,34.86,null,,null,null,null,null,3.08,null,null
+fdb6e1af-10fe-485f-997c-d37717c2862c,ABD,UR REHMAN,222.9,222.9,null,,-27.77,null,-27.77,null,null,null,null
+0e1d8426-5ba2-4f6e-8eb0-ed4fb2babcad,Aftab,Ahmad,11.61,11.61,null,,null,null,null,null,null,null,null
+2a3ddb88-4172-4851-9d54-aeada22efda7,Hari kumar,shrestha,69.83,69.83,null,,null,null,null,null,null,null,null
+38b15c42-89d1-49da-8c5f-e1f81778f7ea,Abrham Dessalegn,Gebreyes,34.91,34.41,null,,null,null,null,null,0.5,null,null
+6c73f96f-61c0-481a-bc6d-b643f0016c29,Shuhel,Miah,17.02,16.02,null,,null,null,null,null,1,null,null
+c0d26fc2-ca22-41c8-9198-cc3405f851ee,Uzair,UR Rehman,249.83,247.83,null,,-79.21,null,-79.21,null,2,null,null
+b10d7e9f-b5e2-407e-be56-cefebfa2b43e,Bishal,Bhusal,572.67,533.74,31,,-101.71,null,-101.71,null,7.93,null,null
+e4d6e592-ebc4-4496-8760-231a094f358a,Muhammad,Naeem,3153.12,2930.15,203,,-654.06,null,-654.06,null,19.97,null,null
+51811d26-a45b-485e-8206-7e3ce994393b,Chaudhry Fraz Ali,Basraa,6048.2,5192.05,785,,-983.48,null,-983.48,null,71.15,null,null
+881fa856-1a67-4e0d-a534-580130aeaa82,Muhammad,Naveed,20.58,20.58,null,,null,null,null,null,null,null,null
+4185a50d-b5bd-4ab7-a237-92422fcbdb15,Bhim Kumar,Shrestha,546.42,534.92,11,,-20.54,null,-20.54,null,0.5,null,null
+a9eeca63-22f3-4120-9724-5bad31c5e439,TAJAMUL,HUSSAIN,91.62,90.62,null,,-23.38,null,-23.38,null,1,null,null
+f974b941-4658-4963-889a-18f467e07d4b,Tofayel,Tofayel,375.77,372.77,null,,-47.48,null,-47.48,null,3,null,null
+0d43a6f6-715e-4591-91fe-5dffc48d1d8d,Abhilash,Divakaran,115.63,114.13,null,,-8.94,null,-8.94,null,1.5,null,null
+3447951b-9481-44e6-b782-735a30f7e769,Geo,Kurian,222.76,220.76,null,,-74.44,null,-74.44,null,2,null,null
+3b2147af-e605-49c9-a287-44bd7e342573,Muhammad,Imran khan,64.49,64.49,null,,null,null,null,null,null,null,null
+d2b5e178-9078-4890-b1d8-cfc530436c21,Muhammad Ubaidullah,Fiaz,8.58,6.58,null,,null,null,null,null,2,null,null
+5eba2c5b-b0fd-482f-a970-7fbb6240d55a,Waleed,Rehman,676.25,664.25,11,,-125.68,null,-125.68,null,1,null,null
+ac4f3ddc-aaa6-489a-8aff-08b1caa4a645,Aslam,Khan,1517.73,1302.15,195,,-202.56,null,-202.56,null,20.58,null,null
+3cdd359e-e29d-48af-af5f-e48d90fc745d,Muhammad,Faheem,1937.44,1816.7,95,,-203.74,null,-203.74,null,25.74,null,null
+0afbf06c-1ed4-4519-84de-81ffb8b49565,Bibek kumar,Ghosh,74.29,72.29,null,,null,null,null,null,2,null,null
+cabce264-a0ab-49ed-bb10-67c01680eb22,GHOUSE BASHA,SYED,118.84,118.84,null,,-44.32,null,-44.32,null,null,null,null
+111611fa-cbbc-4da3-9526-937e45db39cd,Touseef,Rafique,717.66,717.16,null,,-25.84,null,-25.84,null,0.5,null,null
+2aec6be8-1044-4b25-8e5f-aaa9d15381b4,Asad,Ali,35.82,35.82,null,,null,null,null,null,null,null,null
+a849e5e3-a45a-4c4e-ab89-43b50b068baf,Mainul Hossain,Bhuiyan,75.82,74.82,null,,-10.8,null,-10.8,null,1,null,null
+ea828396-2962-4f9d-a9f6-544b4ebe0432,Gentian,Mane,3389.55,2924.17,439,,-460.89,null,-460.89,null,26.38,null,null
+22a3a535-2324-48aa-8f9e-14df1f7901d0,TalHa,ASGHAR,10.14,10.14,null,,null,null,null,null,null,null,null
+08f52687-c6e8-43aa-a295-70448fbc69d1,Mohamed Nismi,Mohamed Shahul Hameed,413.55,406.55,null,,-93.39,null,-93.39,null,7,null,null
+3684c31d-9d52-4215-986a-491de5fee44d,Muhammad Abdul Rehman,Bajwa,24.69,24.69,null,,null,null,null,null,null,null,null
+262a0c0b-c01a-409c-9d2f-9ab33a31c5f9,UJJWAL,KUMAL,103.03,101.03,null,,-16.51,null,-16.51,null,2,null,null
+63d76dd9-80f2-4778-b33e-3612e8718af0,ROBERTO OCAMIA,ANGCOG,8.01,8.01,null,,null,null,null,null,null,null,null
+15542c1d-661e-40ac-85ce-7a5d78cf00cd,Zain,Hassan,1308.57,1292.42,null,,-168.64,null,-168.64,null,16.15,null,null
+4ec6a1ef-addf-4cc2-99db-3c11125e6ca8,Hassan,Yousaf,400.97,200.97,200,,-56.1,null,-56.1,null,null,null,null
+dc973103-2ba3-4b60-a373-f61c83510a3d,Sulman,Ali,621.55,614.96,null,,-28.25,null,-28.25,null,6.59,null,null
+c51d8b15-229c-4d32-bf0b-52b485e1920a,Sugndhar,Gangarapu,321.66,299.16,19,,-93.92,null,-93.92,null,3.5,null,null
+72d06fb1-1210-4e3f-9b2a-2bdb24e0b52e,Rohit,Adhikari,131.49,107.49,22,,-30.14,null,-30.14,null,2,null,null
+ba7bcd11-ed7f-446f-a538-c116a597077b,waseem,shahzad,5570.33,5044.77,480,,-941.78,null,-941.78,null,45.56,null,null
+418c9ed1-2c98-4459-9125-8664529c2513,Kafil,Uddin,489.39,454.88,20,,-46.87,null,-46.87,null,14.51,null,null
+8779057e-8fe2-4f58-9968-987ded517812,Mohammad Sadequr,Rahman,9.7,9.7,null,,-12.12,null,-12.12,null,null,null,null
+201ca7e1-3ea3-4abb-9408-290c61871f03,Muhammad Adeel,Ashfaq,788.65,788.65,null,,-269.05,null,-269.05,null,null,null,null
+4ba16b0c-6b93-4a8b-8a97-671f04e95511,Abhishta Kumar,Thaiba,90.93,89.93,null,,-30.83,null,-30.83,null,1,null,null
+048d7480-0c14-4a2f-92c8-bcdfe6b601c0,SURAJ,CHETRY,60.01,60.01,null,,null,null,null,null,null,null,null
+80760f8b-f53b-4dfd-987e-815e9eadada7,Rohan,Basnet,167.7,164.7,null,,null,null,null,null,3,null,null
+a7a29e72-581e-4f06-8449-3c37022bcfd6,Bilal,Dastgeer,996.68,993.68,null,,-232.68,null,-232.68,null,3,null,null
+=======
+﻿Driver UUID,Driver first name,Driver last name,Total_Earnings,Total Earnings : Net Fare,Total Earnings : Promotions,Refunds & Expenses,Payouts,Payouts : Transferred To Bank Account,Payouts : Cash Collected,Paid to Uber,Total Earnings:Tip,Total Earnings:Other earnings:Lost Item Return,Paid to Uber:Fare Split Fee
+7dda8d0a-49b7-47a4-9d35-89525c71ab45,Ramesh,Rana,14.08,14.08,null,,null,null,null,null,null,null,null
+535200a8-0f18-4c52-8d51-43a68a0e4bc5,LUDMILA,MORARU,788.12,640.6,120,,-121.03,null,-121.03,null,27.52,null,null
+bb705729-0394-459b-b803-af422ddba325,Md Shamsuddin,Jubaraz,1891.65,1650.41,219,,-167.2,null,-167.2,null,12.92,9.32,null
+64d2eb19-7018-4355-ba7f-b02409421fd5,Sunil Kumar,Tyagi,569.38,555.07,null,,-12.53,null,-12.53,null,14.31,null,null
+581c3f9c-42a3-4d54-ba63-9162ed26b88a,Krishna,Panday,833.37,808.87,20,,-122.8,null,-122.8,null,4.5,null,null
+f11d894c-1e06-4df1-bbb5-d479b6876b0b,Nandlal,Sharma Padhya,447.06,424.56,15,,-82.32,null,-82.32,null,7.5,null,null
+6741dbbe-a42c-433f-8d2f-5479114bffbc,Muntahar,Muntahar,110.23,110.23,null,,-10.95,null,-10.95,null,null,null,null
+5f7e5b74-9e81-4b6b-acb6-e258eff1e348,Muhammad Toseef,Saeed,11.57,11.57,null,,null,null,null,null,null,null,null
+a94bc085-4573-44a0-a665-5c7b13bd4802,Sagar,Gurung,118.03,116.03,null,,-17.63,null,-17.63,null,2,null,null
+e905f76e-11b7-4f59-8b9b-490625df67c2,ALI RAZA,RANA,null,null,null,,null,null,null,null,null,null,null
+65c1cc6e-538c-419f-af26-34ffb185318c,Mantvydas,Narusevicius,null,null,null,,-28749.61,-28749.61,null,null,null,null,null
+68af49c1-18fb-47c2-a2bd-e2e5e178ae58,Sijo,Kuriakose,886.72,741.86,132,,-151.95,null,-151.95,-0.06,12.86,null,-0.06
+12db5a09-00b7-4880-90a8-65fac99647e9,Muhammad,Zeeshan,87.67,87.67,null,,-10.58,null,-10.58,null,null,null,null
+8795e3d5-6db0-426e-a33f-bce5089e9ff5,Shimroz,Bashir,414.29,398.29,16,,-151.39,null,-151.39,null,null,null,null
+4874d7c6-1593-4b89-b4cb-301df794c83f,Ankit,Thapa,213.56,194.06,14,,-39.47,null,-39.47,null,5.5,null,null
+3fd50dfb-2555-422f-b6f6-eade52cf3de3,Mohammed,Nazim,37.94,34.86,null,,null,null,null,null,3.08,null,null
+fdb6e1af-10fe-485f-997c-d37717c2862c,ABD,UR REHMAN,222.9,222.9,null,,-27.77,null,-27.77,null,null,null,null
+0e1d8426-5ba2-4f6e-8eb0-ed4fb2babcad,Aftab,Ahmad,11.61,11.61,null,,null,null,null,null,null,null,null
+2a3ddb88-4172-4851-9d54-aeada22efda7,Hari kumar,shrestha,69.83,69.83,null,,null,null,null,null,null,null,null
+38b15c42-89d1-49da-8c5f-e1f81778f7ea,Abrham Dessalegn,Gebreyes,34.91,34.41,null,,null,null,null,null,0.5,null,null
+6c73f96f-61c0-481a-bc6d-b643f0016c29,Shuhel,Miah,17.02,16.02,null,,null,null,null,null,1,null,null
+c0d26fc2-ca22-41c8-9198-cc3405f851ee,Uzair,UR Rehman,249.83,247.83,null,,-79.21,null,-79.21,null,2,null,null
+b10d7e9f-b5e2-407e-be56-cefebfa2b43e,Bishal,Bhusal,572.67,533.74,31,,-101.71,null,-101.71,null,7.93,null,null
+e4d6e592-ebc4-4496-8760-231a094f358a,Muhammad,Naeem,3153.12,2930.15,203,,-654.06,null,-654.06,null,19.97,null,null
+51811d26-a45b-485e-8206-7e3ce994393b,Chaudhry Fraz Ali,Basraa,6048.2,5192.05,785,,-983.48,null,-983.48,null,71.15,null,null
+881fa856-1a67-4e0d-a534-580130aeaa82,Muhammad,Naveed,20.58,20.58,null,,null,null,null,null,null,null,null
+4185a50d-b5bd-4ab7-a237-92422fcbdb15,Bhim Kumar,Shrestha,546.42,534.92,11,,-20.54,null,-20.54,null,0.5,null,null
+a9eeca63-22f3-4120-9724-5bad31c5e439,TAJAMUL,HUSSAIN,91.62,90.62,null,,-23.38,null,-23.38,null,1,null,null
+f974b941-4658-4963-889a-18f467e07d4b,Tofayel,Tofayel,375.77,372.77,null,,-47.48,null,-47.48,null,3,null,null
+0d43a6f6-715e-4591-91fe-5dffc48d1d8d,Abhilash,Divakaran,115.63,114.13,null,,-8.94,null,-8.94,null,1.5,null,null
+3447951b-9481-44e6-b782-735a30f7e769,Geo,Kurian,222.76,220.76,null,,-74.44,null,-74.44,null,2,null,null
+3b2147af-e605-49c9-a287-44bd7e342573,Muhammad,Imran khan,64.49,64.49,null,,null,null,null,null,null,null,null
+d2b5e178-9078-4890-b1d8-cfc530436c21,Muhammad Ubaidullah,Fiaz,8.58,6.58,null,,null,null,null,null,2,null,null
+5eba2c5b-b0fd-482f-a970-7fbb6240d55a,Waleed,Rehman,676.25,664.25,11,,-125.68,null,-125.68,null,1,null,null
+ac4f3ddc-aaa6-489a-8aff-08b1caa4a645,Aslam,Khan,1517.73,1302.15,195,,-202.56,null,-202.56,null,20.58,null,null
+3cdd359e-e29d-48af-af5f-e48d90fc745d,Muhammad,Faheem,1937.44,1816.7,95,,-203.74,null,-203.74,null,25.74,null,null
+0afbf06c-1ed4-4519-84de-81ffb8b49565,Bibek kumar,Ghosh,74.29,72.29,null,,null,null,null,null,2,null,null
+cabce264-a0ab-49ed-bb10-67c01680eb22,GHOUSE BASHA,SYED,118.84,118.84,null,,-44.32,null,-44.32,null,null,null,null
+111611fa-cbbc-4da3-9526-937e45db39cd,Touseef,Rafique,717.66,717.16,null,,-25.84,null,-25.84,null,0.5,null,null
+2aec6be8-1044-4b25-8e5f-aaa9d15381b4,Asad,Ali,35.82,35.82,null,,null,null,null,null,null,null,null
+a849e5e3-a45a-4c4e-ab89-43b50b068baf,Mainul Hossain,Bhuiyan,75.82,74.82,null,,-10.8,null,-10.8,null,1,null,null
+ea828396-2962-4f9d-a9f6-544b4ebe0432,Gentian,Mane,3389.55,2924.17,439,,-460.89,null,-460.89,null,26.38,null,null
+22a3a535-2324-48aa-8f9e-14df1f7901d0,TalHa,ASGHAR,10.14,10.14,null,,null,null,null,null,null,null,null
+08f52687-c6e8-43aa-a295-70448fbc69d1,Mohamed Nismi,Mohamed Shahul Hameed,413.55,406.55,null,,-93.39,null,-93.39,null,7,null,null
+3684c31d-9d52-4215-986a-491de5fee44d,Muhammad Abdul Rehman,Bajwa,24.69,24.69,null,,null,null,null,null,null,null,null
+262a0c0b-c01a-409c-9d2f-9ab33a31c5f9,UJJWAL,KUMAL,103.03,101.03,null,,-16.51,null,-16.51,null,2,null,null
+63d76dd9-80f2-4778-b33e-3612e8718af0,ROBERTO OCAMIA,ANGCOG,8.01,8.01,null,,null,null,null,null,null,null,null
+15542c1d-661e-40ac-85ce-7a5d78cf00cd,Zain,Hassan,1308.57,1292.42,null,,-168.64,null,-168.64,null,16.15,null,null
+4ec6a1ef-addf-4cc2-99db-3c11125e6ca8,Hassan,Yousaf,400.97,200.97,200,,-56.1,null,-56.1,null,null,null,null
+dc973103-2ba3-4b60-a373-f61c83510a3d,Sulman,Ali,621.55,614.96,null,,-28.25,null,-28.25,null,6.59,null,null
+c51d8b15-229c-4d32-bf0b-52b485e1920a,Sugndhar,Gangarapu,321.66,299.16,19,,-93.92,null,-93.92,null,3.5,null,null
+72d06fb1-1210-4e3f-9b2a-2bdb24e0b52e,Rohit,Adhikari,131.49,107.49,22,,-30.14,null,-30.14,null,2,null,null
+ba7bcd11-ed7f-446f-a538-c116a597077b,waseem,shahzad,5570.33,5044.77,480,,-941.78,null,-941.78,null,45.56,null,null
+418c9ed1-2c98-4459-9125-8664529c2513,Kafil,Uddin,489.39,454.88,20,,-46.87,null,-46.87,null,14.51,null,null
+8779057e-8fe2-4f58-9968-987ded517812,Mohammad Sadequr,Rahman,9.7,9.7,null,,-12.12,null,-12.12,null,null,null,null
+201ca7e1-3ea3-4abb-9408-290c61871f03,Muhammad Adeel,Ashfaq,788.65,788.65,null,,-269.05,null,-269.05,null,null,null,null
+4ba16b0c-6b93-4a8b-8a97-671f04e95511,Abhishta Kumar,Thaiba,90.93,89.93,null,,-30.83,null,-30.83,null,1,null,null
+048d7480-0c14-4a2f-92c8-bcdfe6b601c0,SURAJ,CHETRY,60.01,60.01,null,,null,null,null,null,null,null,null
+80760f8b-f53b-4dfd-987e-815e9eadada7,Rohan,Basnet,167.7,164.7,null,,null,null,null,null,3,null,null
+a7a29e72-581e-4f06-8449-3c37022bcfd6,Bilal,Dastgeer,996.68,993.68,null,,-232.68,null,-232.68,null,3,null,null
+>>>>>>> master
