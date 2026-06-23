@@ -77,18 +77,16 @@ To analyze driver performance, trip activity, productivity, and vehicle utilizat
 ## 📷 Dashboard Preview
 
 ### Driver Performance Overview
-![Driver Performance](Screenshots/Driver_Performance.png)
+![Driver Performance](Screenshots/Driver%20Performance%20Overview.png)
 
 ### Driver Activity & Trip Timing Analysis
-![Trip Timing](Screenshots/Trip_Timing.png)
+![Trip Timing](Screenshots/Driver%20Activity%20%26%20Trip%20Timing%20Analysis.png)
 
 ### Vehicle Utilization Analysis
-![Vehicle Utilization](Screenshots/Vehicle_Utilization.png)
+![Vehicle Utilization](Screenshots/Vehicle%20Utilization%20Analysis.png)
 
 ### Root Cause Analysis
-![Root Cause Analysis](Screenshots/Root_Cause_Analysis.png)
----
-
+![Root Cause Analysis](Screenshots/Root%20Cause%20Analysis.png)
 ## 📁 Repository Structure
 
 ```
